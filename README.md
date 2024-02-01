@@ -1,3 +1,3 @@
-# zhourui.github.io
+# ruizhou.github.io
 
 My personal vlog via Github
