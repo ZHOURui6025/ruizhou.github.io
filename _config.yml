@@ -1,4 +1,4 @@
-name: "zhourui's blog"
+name: "ZhouRui's Blog"
 description: "周锐的个人学术博客"
 
 avatar: ../images/zr.jpg
@@ -9,7 +9,7 @@ navigation:
     url: /
   - name: 关于
     url: /about
-  - name: 分类
+  - name: 项目
     url: /tags
 
 paginate: 8
