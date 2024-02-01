@@ -1,8 +1,8 @@
 name: "ZhouRui's Blog"
 description: "周锐的个人学术博客"
 
-avatar: ../images/zr.jpg
-favicon: ../images/favicon.ico
+avatar: /images/zr.jpg
+favicon: /images/favicon.ico
 
 navigation:
   - name: 首页
